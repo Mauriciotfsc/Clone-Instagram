@@ -1,1 +1,1 @@
-# Segue um clone do login do instagram 🙃
+# Clone do login do instagram 🙃
